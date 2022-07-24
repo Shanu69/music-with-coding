@@ -1,11 +1,11 @@
  
- var audio7 = new Audio("Audio/audio7.mp3");
- var audio6 = new Audio("Audio/audio6.mp3");
- var audio5 = new Audio("Audio/audio5.mp3");
- var audio4 = new Audio("Audio/audio4.mp3");
- var audio3 = new Audio("Audio/audio3.mp3");
- var audio2 = new Audio("Audio/audio2.mp3");
- var audio1 = new Audio("Audio/audio1.mp3");
+ var audio7 = new Audio("Audio/Audio_audio7.mp3");
+ var audio6 = new Audio("Audio/Audio_audio6.mp3");
+ var audio5 = new Audio("Audio/Audio_audio5.mp3");
+ var audio4 = new Audio("Audio/Audio_audio4.mp3");
+ var audio3 = new Audio("Audio/Audio_audio3.mp3");
+ var audio2 = new Audio("Audio/Audio_audio2.mp3");
+ var audio1 = new Audio("Audio/Audio_audio1.mp3");
 
  window.onload=function(){
     document.getElementById("my_audio").play();
@@ -267,7 +267,7 @@ document.getElementById("pain").style.backgroundImage="url(https://c.tenor.com/a
 
 
 var card= document.getElementById("card");
-var sound1 = new Audio("sound/sound1.mp3");
+var sound1 = new Audio("sound/Sound_sound1.mp3");
 
 
 
