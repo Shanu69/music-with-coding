@@ -267,7 +267,7 @@ document.getElementById("pain").style.backgroundImage="url(https://c.tenor.com/a
 
 
 var card= document.getElementById("card");
-var sound1 = new Audio("sound/Sound_sound1.mp3");
+var sound1 = new Audio("sound/sound_sound1.mp3");
 
 
 
