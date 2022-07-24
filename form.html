@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Registration Form</title>
+	  <link rel="stylesheet" href="form.css" />
+  </head>
+  <body>
+    <div class="container" id="op">
+		<div class="card">
+			<div class="inner-box" id="card">
+               <div class="card-front" id="cv">
+				<h2>LOGIN</h2>
+				<form>
+					<input type="email"  class="input-box"  id="userName" placeholder="User Name" required>
+					<input type="password"  class="input-box" id="userPw"  placeholder="Password" required>
+					<button type="submit"   class="Submit-button"  onclick="check()">Submit</button> 
+					<input type="checkbox"><span>Remember Me</span>
+				</form>	
+				<button type="button" class="btn" onclick="openregister()">I'm New Here</button>
+				<a href="">Forgot Password</a>
+			   </div>
+			   <div class="card-back" id="cb">
+				<h2>REGISTER</h2>
+				<form>
+					<input type="text"  class="input-box" id="name" placeholder="Your Name" required>
+					<input type="text"  class="input-box" id="email"  placeholder="Your Email Id" required>
+					<input type="password"  class="input-box" id="pw" placeholder="Password" required>
+					<button type="submit"   class="Submit-button"   onclick="store()">Submit</button> 
+					<input type="checkbox" id="rememberME"><span>Remember Me</span>
+				</form>	
+				<button type="button" class="btn" onclick="openlogin()">I've an Account</button>
+				<a href="">Forgot Password</a>
+			   </div>
+			</div>		
+		</div>
+	</div>
+  </body>
+  <script src="Ayush.js"></script>    
+</html>

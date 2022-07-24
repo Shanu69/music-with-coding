@@ -1,0 +1,288 @@
+body
+{
+ background  :url("https://wallpapercave.com/uwp/uwp2181382.gif"); 
+ 
+}
+.content
+{
+  color: rgb(0, 255, 0);
+background-color: black;
+margin-left: auto;
+margin-right: auto;
+padding: 1px;
+  max-width: 1480px;
+
+  font-size: 35px;
+
+}
+.cv
+{
+
+color: rgb(10, 226, 10);
+background-color: black;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+padding: 1px;
+  max-width: 1650px;
+  font-size: 75px;
+
+}
+
+section
+{
+
+color: rgb(0, 255, 0);
+background-color: black;
+margin-left: auto;
+margin-right: auto;
+padding: 200px;
+  max-width: 500px;
+  margin-top: 200px;
+
+}
+h2,.ww
+{
+    color:rgb(255, 27, 27);
+    background-color: black;
+    max-width: 500px;
+
+
+}
+fieldset
+{
+    color:rgb(0, 255, 0);
+    background-color: black;
+    max-width: 1400px;
+
+
+}
+
+.star_coder
+{
+    color: #fff;
+
+
+}
+.b7
+{
+  display :inline-block; 
+  font-size: 25px;
+   background: #D0011B;
+   padding: 15px 25px; 
+    line-height: 1.5; 
+     color: white;
+     margin-right: 10px;
+     position: absolute;
+     left: 1400px;
+     border: none;
+     border-radius: 15px;
+     box-shadow: 0 9px #999;
+ 
+
+}
+.b6
+{
+  display :inline-block; 
+  font-size: 25px;
+   background: #FF7F00;
+   padding: 15px 25px; 
+    line-height: 1.5; 
+     color: white;
+     margin-right: 10px;
+     position: absolute;
+     left: 1200px;
+     border: none;
+     border-radius: 15px;
+     box-shadow: 0 9px #999;
+   
+
+}
+.b5
+{
+  display :inline-block; 
+  font-size: 25px;
+   background: #FFBF00;
+   padding: 15px 25px;
+    line-height: 1.5; 
+     color: white;
+     margin-right: 10px;
+     position: absolute;
+     left: 950px;
+     border: none;
+     border-radius: 15px;
+     box-shadow: 0 9px #999;
+  
+
+}
+.b4
+{
+  display :inline-block; 
+  font-size: 25px;
+   background: #684273;
+   padding: 15px 25px; 
+    line-height: 1.5; 
+     color: white;
+     margin-right: 10px;
+     position: absolute;
+     left: 700px;
+     border: none;
+     border-radius: 15px;
+     box-shadow: 0 9px #999;
+  
+
+}
+.b3
+{
+ display: inline-block; 
+font-size: 25px; 
+background: #3366CC;
+padding: 15px 25px;
+ line-height: 1.5; 
+ color: white;
+  margin-right: 10px;
+  position: absolute;
+  left: 450px;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+ 
+}
+.b2
+{
+  display :inline-block; 
+  font-size: 25px;
+   background: #1E7D22;
+   padding: 15px 25px;
+    line-height: 1.5; 
+     color: white;
+     margin-right: 10px;
+     position: absolute;
+     left: 200px;
+     border: none;
+  border-radius: 15px;
+     box-shadow: 0 9px #999;
+  
+
+}
+.b1
+{
+  display :inline-block; 
+  font-size: 25px;
+   background: #666666;;
+   padding: 15px 25px;
+    line-height: 1.5; 
+     color: white;
+     margin-right: 10px;
+     position: absolute;
+     left: 0px;
+     border: none;
+  border-radius: 15px;
+     box-shadow: 0 9px #999;
+   
+
+}
+.pp
+{
+  background-color: black;
+  margin-left: auto;
+margin-right: auto;
+max-width: 180px;
+font-size: 20px;
+color: #D0011B;
+font-size: 20px;
+margin-top: 200px;
+}
+button
+{
+  bottom :200px;
+  margin-left: 20px;
+}
+
+
+
+button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+button span:after {
+  content: ' ';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+button:hover span {
+  padding-right: 25px;
+}
+
+button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+.b1:hover {background-color: rgb(48, 48, 48)}
+.b2:hover {background-color: rgb(47, 219, 0)}
+.b3:hover {background-color: rgb(6, 41, 179)}
+.b4:hover {background-color: rgb(160, 0, 252)}
+.b5:hover {background-color: rgba(255, 255, 0, 0.914)}
+.b6:hover {background-color: rgb(255, 149, 0)}
+.b7:hover {background-color: rgb(255, 0, 0)}
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.yo
+{
+
+margin-top: 500px;
+background-color: black;
+font-size: 30px;
+color:#FFBF00;
+max-width: 610px;
+margin-left: 450px;
+
+
+}
+a {
+  color: rgb(60, 0, 255);
+}
+
+a:visited {
+  color: rgb(0, 255, 191);
+}
+
+a:hover {
+  color: rgb(238, 255, 0);
+}
+
+a:active {
+  color: rgb(255, 157, 0);
+}
+
+.tyu {
+  width: 300px;
+  height: 260px;
+  border-radius: 50%;
+  background-image: url('https://c.tenor.com/3i4MFZS7VyUAAAAC/welcome.gif');
+  background-repeat: repeat-x;
+  background-size:contain;
+  position: relative;
+  animation: myfirst 20s linear 2s infinite alternate;
+}
+
+@keyframes myfirst {
+  0%   {left:0px; top:0px;}
+  25%  {left:1350px; top:0px;}
+  50%  { left:1350px; top:400px;}
+  75%  { left:0px; top:400px;}
+  100% { left:0px; top:0px;}
+}
